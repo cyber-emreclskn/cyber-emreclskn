@@ -9,6 +9,6 @@ cyber-emreclskn/cyber-emreclskn is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://gifs.com/gif/gintama-love-and-peace-ywrL77)
+![](https://j.gifs.com/ywrL77.gif)
 
 [![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-emreclskn)](https://github.com/cyber-emreclskn/github-readme-stats)
