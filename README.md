@@ -52,13 +52,13 @@
 
 <p align="center">
   <a href="https://github.com/cyber-emreclskn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Emre GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-emreclskn&theme=radical&border=7F3FBF&background=0D1117" alt="Emre GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cyber-emreclskn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Emre GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyber-emreclskn&theme=radical" alt="Emre GitHub Contribution"/>
   </a>
 </p>
 
