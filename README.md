@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7134F7&center=true&vCenter=true&repeat=false&width=435&lines=Emre+Caliskan" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://i.imgur.com/VXK75zo.gif" width="500" alt="Dark Souls Animation" />
-</div>
+<div align="center"> <img src="https://media.tenor.com/2X1z3Z5F0XUAAAAC/dark-souls.gif" width="500" alt="Dark Souls Animasyon" /> </div>
 
 <h3 align="center">🎮 When I'm not coding, I'm probably fighting bosses in Souls games 🎮</h3>
 
