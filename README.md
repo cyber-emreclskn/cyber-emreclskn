@@ -1,188 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Emre Caliskan - Developer Profile</title>
-    <style>
-        :root {
-            --bg-primary: #0d1117;
-            --bg-secondary: #161b22;
-            --text-primary: #c9d1d9;
-            --text-secondary: #8b949e;
-            --accent: #7928ca;
-            --border: #30363d;
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7134F7&center=true&vCenter=true&repeat=false&width=435&lines=Emre+Caliskan" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://i.imgur.com/VXK75zo.gif" width="500" alt="Dark Souls Animation" />
+</div>
+
+<h3 align="center">🎮 When I'm not coding, I'm probably fighting bosses in Souls games 🎮</h3>
+
+<div align="center">
+  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21wydn2a4th25wi7o43bi25ii?si=f788a69a29cf47f3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyber-emreclskn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cyber-emreclskn&show_icons=true&count_private=true&hide_border=true&title_color=7134F7&icon_color=7134F7&text_color=c9d1d9&bg_color=0d1117" alt="Emre Caliskan github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-emreclskn&layout=compact&hide_border=true&title_color=7134F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+### 👨‍💻 About Me:
+
+```python
+class EmreCaliskan:
+    def __init__(self):
+        self.name = "Emre Caliskan"
+        self.role = "Python Developer & AWS Engineer"
+        self.education = "Computer Engineering"
+        self.interests = ["AI", "Cloud Computing", "Gaming"]
+        self.favorite_games = ["Dark Souls", "Bloodborne", "Elden Ring"]
+        
+    def get_skills(self):
+        return {
+            "Languages": ["Python", "Java", "JavaScript"],
+            "Web": ["Django", "React", "HTML/CSS"],
+            "Mobile": ["Flutter"],
+            "Cloud": ["AWS", "Docker", "Kubernetes"],
+            "AI/ML": ["TensorFlow", "PyTorch"],
+            "Network": ["TCP/IP", "Security", "Infrastructure"]
         }
+    
+    def daily_routine(self):
+        return ["Code", "Deploy to AWS", "Fight Bosses in Souls Games", "Repeat"]
+```
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+### 🛠 Tech Stack:
 
-        body {
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            line-height: 1.6;
-        }
+<div align="center">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .profile-bg {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(45deg, #1a1a1a, #2d1a4a);
-            opacity: 0.8;
-            z-index: -1;
-        }
+### 🎮 Gaming Setup:
 
-        .profile-content {
-            padding: 2rem;
-            background: var(--bg-secondary);
-            border-radius: 1rem;
-            border: 1px solid var(--border);
-            margin-bottom: 2rem;
-        }
+<div align="center">
 
-        .title {
-            font-size: 2.5rem;
-            color: var(--accent);
-            margin-bottom: 1rem;
-            text-shadow: 0 0 10px rgba(121, 40, 202, 0.3);
-        }
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![PS5](https://img.shields.io/badge/PS5-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 
-        .subtitle {
-            font-size: 1.2rem;
-            color: var(--text-secondary);
-            margin-bottom: 2rem;
-        }
+</div>
 
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-            margin: 2rem 0;
-        }
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyber-emreclskn&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7134F7&fire=7134F7&currStreakNum=7134F7&ring=7134F7&currStreakLabel=7134F7&sideNums=7134F7&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
-        .tech-item {
-            background: var(--bg-primary);
-            padding: 0.5rem 1rem;
-            border-radius: 2rem;
-            border: 1px solid var(--border);
-            transition: all 0.3s ease;
-        }
+</div>
 
-        .tech-item:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-            border-color: var(--accent);
-        }
+---
 
-        .gaming-section {
-            background: var(--bg-secondary);
-            padding: 2rem;
-            border-radius: 1rem;
-            border: 1px solid var(--border);
-            margin-top: 2rem;
-        }
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyber-emreclskn&color=7134F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
-        .gaming-title {
-            color: var(--accent);
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-        }
-
-        .social-links {
-            display: flex;
-            gap: 1rem;
-            justify-content: center;
-            margin-top: 2rem;
-        }
-
-        .social-link {
-            color: var(--text-primary);
-            text-decoration: none;
-            padding: 0.5rem 1rem;
-            border-radius: 0.5rem;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border);
-            transition: all 0.3s ease;
-        }
-
-        .social-link:hover {
-            background: var(--accent);
-            color: white;
-        }
-
-        .souls-gif {
-            width: 100%;
-            max-width: 600px;
-            border-radius: 0.5rem;
-            margin: 1rem auto;
-            display: block;
-        }
-
-        @keyframes glow {
-            0% { box-shadow: 0 0 5px var(--accent); }
-            50% { box-shadow: 0 0 20px var(--accent); }
-            100% { box-shadow: 0 0 5px var(--accent); }
-        }
-
-        .glow-effect {
-            animation: glow 3s infinite;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <div class="profile-bg"></div>
-            <h1 class="title glow-effect">Emre Caliskan</h1>
-            <p class="subtitle">Python Developer | AWS Engineer | Gaming Enthusiast</p>
-        </div>
-
-        <div class="profile-content">
-            <p>🚀 Computer Engineer specializing in Python/Django development and AWS cloud solutions</p>
-            <p>🌟 Passionate about creating scalable web applications and solving complex problems</p>
-            
-            <div class="tech-stack">
-                <span class="tech-item">Python</span>
-                <span class="tech-item">Django</span>
-                <span class="tech-item">AWS</span>
-                <span class="tech-item">AI</span>
-                <span class="tech-item">Java</span>
-                <span class="tech-item">React</span>
-                <span class="tech-item">Flutter</span>
-                <span class="tech-item">HTML/CSS</span>
-                <span class="tech-item">Network Engineering</span>
-            </div>
-        </div>
-
-        <div class="gaming-section">
-            <h2 class="gaming-title">Gaming Passion</h2>
-            <p>Souls-like gaming enthusiast. When not coding, you'll find me exploring the challenging worlds of Dark Souls, Bloodborne, and Elden Ring.</p>
-            <img src="/api/placeholder/600/300" alt="Souls-like gaming gif" class="souls-gif">
-        </div>
-
-        <div class="social-links">
-            <a href="https://github.com/cyber-emreclskn" class="social-link">GitHub</a>
-            <a href="https://open.spotify.com/user/21wydn2a4th25wi7o43bi25ii?si=f788a69a29cf47f3" class="social-link">Spotify</a>
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7134F7&height=120&section=footer"/>
+</div>
