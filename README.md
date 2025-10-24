@@ -32,11 +32,11 @@
 
 <div align="center">
 
-## <img src="https://tenor.com/bWKXLWDr2Hd.gif" width="40"> **ABOUT THE PHANTOM THIEF**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **ABOUT THE PHANTOM THIEF**
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bWKXLWDr2Hd.gif">
+<img align="right" alt="Persona" width="400" src="https://media.tenor.com/bWKXLWDr2HdAAAAM.gif">
 
 ```yaml
 class TheArchitect:
@@ -74,7 +74,7 @@ class TheArchitect:
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **SKILL TREE & TECH ARSENAL**
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Persona All Out Attack">
+<img src="https://media.tenor.com/bXXyiAAAAM.gif" width="400" alt="Persona Skills">
 
 </div>
 
@@ -108,7 +108,7 @@ class TheArchitect:
 
 ## 📊 **PALACE STATISTICS**
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350" alt="Anime Coding">
+<img src="https://media.tenor.com/b01oDAAAAM.gif" width="350" alt="Persona Stats">
 
 </div>
 
@@ -128,7 +128,7 @@ class TheArchitect:
 
 ## 🎯 **CURRENT MISSIONS**
 
-<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_ouic6vhdPo1vfmw3wo1_540.gifv" width="500" alt="Persona UI">
+<img src="https://media.tenor.com/bVZ01AAAAM.gif" width="500" alt="Persona Missions">
 
 </div>
 
