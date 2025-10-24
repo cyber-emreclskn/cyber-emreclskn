@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **ABOUT THE PHANTOM THIEF**
+## <img src="https://tenor.com/bWKXLWDr2Hd.gif" width="40"> **ABOUT THE PHANTOM THIEF**
 
 </div>
 
