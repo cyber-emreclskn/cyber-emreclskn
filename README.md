@@ -30,7 +30,7 @@ Building LLM-powered applications and scalable AI infrastructure.
 
 ### Links
 
-[GitHub](https://github.com/cyber-emreclskn) · [LinkedIn](https://linkedin.com/in/emreclskn) · [Spotify](https://open.spotify.com/user/21wydn2a4th25wi7o43bi25ii)
+[GitHub](https://github.com/cyber-emreclskn) · [LinkedIn](https://linkedin.com/in/osman-emre-caliskan) · [Spotify](https://open.spotify.com/user/21wydn2a4th25wi7o43bi25ii)
 
 ---
 
